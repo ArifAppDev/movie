@@ -1,6 +1,7 @@
 import 'package:get/get.dart';
-import 'package:movie/presentation/home/pages/home_screen.dart';
-import 'package:movie/presentation/screens/movie_details.dart';
+
+import 'package:movie/presentation/screens/home/views/home_screen.dart';
+import 'package:movie/presentation/screens/movie_details/views/movie_details.dart';
 
 class AppRoutes {
   static const String homescreen = "/homescreen";

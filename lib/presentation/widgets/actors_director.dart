@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:movie/core/utils/colors/app_colors.dart';
 import 'package:movie/core/utils/static_strings/static_strings.dart';
-import 'package:movie/presentation/data/models/dy_actor_director_models.dart';
+import 'package:movie/presentation/screens/movie_details/models/dy_actor_director_models.dart';
 
 class ActorsDirector extends StatelessWidget {
   const ActorsDirector({super.key});

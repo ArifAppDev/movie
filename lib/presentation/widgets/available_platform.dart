@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:movie/core/utils/colors/app_colors.dart';
 import 'package:movie/core/utils/static_strings/static_strings.dart';
-import 'package:movie/presentation/data/models/dy_platfrom_models.dart';
+
+import 'package:movie/presentation/screens/movie_details/models/dynamic_platfrom_models.dart';
 
 class AvailablePlatform extends StatelessWidget {
   const AvailablePlatform({super.key});

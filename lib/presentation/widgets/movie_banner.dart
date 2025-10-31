@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:movie/core/routes/app_routes.dart';
 import 'package:movie/core/utils/colors/app_colors.dart';
-import 'package:movie/presentation/home/controllers/banner_page_indicatior.dart';
+import 'package:movie/presentation/screens/home/controllers/banner_page_controller.dart';
 
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

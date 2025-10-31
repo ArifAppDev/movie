@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:movie/core/utils/colors/app_colors.dart';
 import 'package:movie/core/utils/static_strings/static_strings.dart';
-import 'package:movie/presentation/home/model/my_favourite.dart';
+
+import 'package:movie/presentation/screens/home/models/my_favourite.dart';
 
 class RelatedMovies extends StatelessWidget {
   const RelatedMovies({super.key});
