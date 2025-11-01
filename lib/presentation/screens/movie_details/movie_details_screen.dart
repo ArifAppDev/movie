@@ -5,8 +5,8 @@ import 'package:movie/presentation/widgets/available_platform.dart';
 import 'package:movie/presentation/widgets/dynamic_movie_details.dart';
 import 'package:movie/presentation/widgets/related_movies.dart';
 
-class MovieDetails extends StatelessWidget {
-  const MovieDetails({super.key});
+class MovieDetailsScreen extends StatelessWidget {
+  const MovieDetailsScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
