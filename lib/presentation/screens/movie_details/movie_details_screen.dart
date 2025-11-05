@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:movie/core/utils/colors/app_colors.dart';
+
 import 'package:movie/presentation/widgets/actors_director.dart';
 import 'package:movie/presentation/widgets/available_platform.dart';
 import 'package:movie/presentation/widgets/dynamic_movie_details.dart';
 import 'package:movie/presentation/widgets/related_movies.dart';
+import 'package:movie/utils/app_color/app_colors.dart';
 
 class MovieDetailsScreen extends StatelessWidget {
   const MovieDetailsScreen({super.key});

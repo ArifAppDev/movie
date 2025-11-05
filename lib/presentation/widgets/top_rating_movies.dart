@@ -4,8 +4,9 @@ import 'package:get/get_navigation/get_navigation.dart';
 import 'package:get/utils.dart';
 import 'package:movie/core/custom_assets/custom_icons/custom_icons.dart';
 import 'package:movie/core/routes/app_routes.dart';
-import 'package:movie/core/utils/colors/app_colors.dart';
+
 import 'package:movie/presentation/screens/home/models/top_rating_movies.dart';
+import 'package:movie/utils/app_color/app_colors.dart';
 
 class TopRatingMovies extends StatelessWidget {
   const TopRatingMovies({super.key});

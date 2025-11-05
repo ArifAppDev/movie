@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:movie/core/custom_assets/custom_icons/custom_icons.dart';
-import 'package:movie/core/utils/colors/app_colors.dart';
+
 import 'package:movie/presentation/widgets/custom_app_bar.dart';
 import 'package:movie/presentation/widgets/movie_banner.dart';
 import 'package:movie/presentation/widgets/my_favoutite.dart';
 import 'package:movie/presentation/widgets/studios.dart';
 import 'package:movie/presentation/widgets/text_top_rated_movies.dart';
 import 'package:movie/presentation/widgets/top_rating_movies.dart';
+import 'package:movie/utils/app_color/app_colors.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

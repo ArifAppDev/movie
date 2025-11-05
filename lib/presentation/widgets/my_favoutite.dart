@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:movie/core/routes/app_routes.dart';
-import 'package:movie/core/utils/colors/app_colors.dart';
-import 'package:movie/core/utils/static_strings/static_strings.dart';
+
 import 'package:movie/presentation/screens/home/models/my_favourite.dart';
+import 'package:movie/utils/app_color/app_colors.dart';
+import 'package:movie/utils/static_string/static_strings.dart';
 
 class MyFavoutite extends StatelessWidget {
   const MyFavoutite({super.key});

@@ -2,8 +2,9 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:movie/core/routes/app_routes.dart';
-import 'package:movie/core/utils/colors/app_colors.dart';
+
 import 'package:movie/presentation/screens/home/controllers/banner_page_controller.dart';
+import 'package:movie/utils/app_color/app_colors.dart';
 
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
